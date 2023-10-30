@@ -1,0 +1,17 @@
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-tipoCambios\bin\Debug\net7.0\lp-webService-tipoCambios.exe
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-tipoCambios\bin\Debug\net7.0\lp-webService-tipoCambios.deps.json
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-tipoCambios\bin\Debug\net7.0\lp-webService-tipoCambios.runtimeconfig.json
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-tipoCambios\bin\Debug\net7.0\lp-webService-tipoCambios.dll
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-tipoCambios\bin\Debug\net7.0\lp-webService-tipoCambios.pdb
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-tipoCambios\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-tipoCambios\obj\Debug\net7.0\lp-webService-tipoCambios.csproj.AssemblyReference.cache
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-tipoCambios\obj\Debug\net7.0\lp-webService-tipoCambios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-tipoCambios\obj\Debug\net7.0\lp-webService-tipoCambios.AssemblyInfoInputs.cache
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-tipoCambios\obj\Debug\net7.0\lp-webService-tipoCambios.AssemblyInfo.cs
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-tipoCambios\obj\Debug\net7.0\lp-webService-tipoCambios.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-tipoCambios\obj\Debug\net7.0\lp-webService-tipoCambios.csproj.CopyComplete
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-tipoCambios\obj\Debug\net7.0\lp-webService-tipoCambios.dll
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-tipoCambios\obj\Debug\net7.0\refint\lp-webService-tipoCambios.dll
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-tipoCambios\obj\Debug\net7.0\lp-webService-tipoCambios.pdb
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-tipoCambios\obj\Debug\net7.0\lp-webService-tipoCambios.genruntimeconfig.cache
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-tipoCambios\obj\Debug\net7.0\ref\lp-webService-tipoCambios.dll
